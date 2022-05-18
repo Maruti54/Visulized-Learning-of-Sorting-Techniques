@@ -1,4 +1,4 @@
-# Visualizing-Sorting-Algorithm
+# Visualizing-Learning-of-Sorting-Techniques
 #### This is a project for visualization of different sorting algorithm for better understanding of beginner coders.
 
 Many people while starting the journey of programing face sorting algorithm difficult to understand. That’s the reason why most of them leave it. So, we have created a programme to visualize some of these sorting algorithms using python and tkinter module.
